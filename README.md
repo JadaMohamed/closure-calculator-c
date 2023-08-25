@@ -28,7 +28,7 @@ Welcome to the **Closure Calculator** project implemented in C language! This co
 2. Navigate to the project directory:
     `cd closure-calculator-c`
 3. Compile the C code using a C compiler (e.g., GCC):
-    `gcc closure_calculator.c -o closure_calculator`
+    `gcc closure.c -o closure`
 
 ## Usage
 
